@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "languages": {
+    "tr": [
+      "genel_tr.json",
+      "minecraft_tr.json",
+      "roblox_tr.json"
+    ]
+  }
+}
